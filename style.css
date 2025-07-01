@@ -335,7 +335,7 @@ small {
         overflow: hidden;
 
         img {
-            height: 700px;
+            height: 100px;
             min-width: 250px;
             padding-bottom: 5px;
             border-radius: 15px;
